@@ -12,5 +12,16 @@ public class MachineProblem9 {
                 of the real estate value
                 c) If more than 500,000 tax is 15% of the real estate value
          */
+        System.out.print("Enter the value of real estate: ");
+        double value = Double.parseDouble(br.readLine());
+        double tax = 0;
+        if (value < 250001) {
+            tax = value * 0.05;
+        } else if (value >= 250001 && value <= 500000) {
+            tax = value * 0.10;
+        } else if (value > 500000) {
+            tax = value * 0.15;
+        }
+        System.out.println("The tax is: " + tax);
     }
 }
