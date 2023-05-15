@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MachineProblem26",
+            "request": "launch",
+            "mainClass": "MachineProblem26",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem25",
+            "request": "launch",
+            "mainClass": "MachineProblem25",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem21",
+            "request": "launch",
+            "mainClass": "MachineProblem21",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem20",
+            "request": "launch",
+            "mainClass": "MachineProblem20",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem19",
+            "request": "launch",
+            "mainClass": "MachineProblem19",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem18",
+            "request": "launch",
+            "mainClass": "MachineProblem18",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem17",
+            "request": "launch",
+            "mainClass": "MachineProblem17",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "MachineProblem16",
+            "request": "launch",
+            "mainClass": "MachineProblem16",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
             "name": "MachineProblem14",
             "request": "launch",
             "mainClass": "MachineProblem14",

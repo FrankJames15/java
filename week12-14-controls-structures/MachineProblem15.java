@@ -1,12 +1,14 @@
+/*
+    15. Input three unique numbers and print the difference of the highest
+    and lowest numbers.
+*/
+
 import java.io.*;
 
 public class MachineProblem15 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        /*
-            15. Input three unique numbers and print the difference of the highest
-            and lowest numbers.
-        */
+        
         System.out.print("Enter the first number: ");
         int num1 = Integer.parseInt(br.readLine());
 
