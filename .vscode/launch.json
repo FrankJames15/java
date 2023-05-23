@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "PrefinalExam.TicTacToe",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
             "name": "MachineProblem26",
             "request": "launch",
             "mainClass": "MachineProblem26",
